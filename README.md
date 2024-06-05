@@ -1,2 +1,2 @@
 # Collage de Imágenes
-Desafío guíado Collage de Imágenes
+Desafío guiado Collage de Imágenes
